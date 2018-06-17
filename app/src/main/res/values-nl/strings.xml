@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Berlijn-Vegan</string>
+    <string name="action_gastro">Eten</string>
+    <string name="action_shopping">Winkelen</string>
+    <string name="action_favorites">Favorieten</string>
+    <string name="action_settings">Instellingen</string>
+    <string name="action_mapview">Kaartoverzicht</string>
+    <string name="action_listview">Lijstweergave</string>
+    <string name="action_about">Over</string>
+    <string name="action_filter">Filter</string>
+    <string name="action_menu_search">Zoeken</string>
+    <string name="action_rate_app">App beoordelen</string>
+
+    <string name="km_string">km</string>
+    <string name="mi_string">mi</string>
+
+    <string name="please_wait">Even geduld&#8230;...</string>
+    <string name="retrieving_data">Bezig met ophalen van gegevens...</string>
+    <string name="units">Eenheden</string>
+    <string name="units_summaryOn">Metriek stelsel</string>
+    <string name="units_summaryOff">Imperiaal stelsel</string>
+    <string name="guide">Gids</string>
+    <string name="error">Fout</string>
+    <string name="no_gps_data">Geen GPS-gegevens ontvangen. Toon de lijst in de standaard volgorde.</string>
+    <string name="insert_error_report">Voer hier je foutrapport in:</string>
+    <string name="something_went_wrong">Er is iets misgegaan. Geen zorgen, er is een rapport verstuurd dat het probleem gaat helpen oplossen.</string>
+
+    <string name="about_version">&lt;b>%1$s&lt;/b>&lt;br>Versie: %2$s</string>
+    <string name="about_licenses">Open-bron-licenties</string>
+    <string name="about_credits">Met dank aan</string>
+
+    <string name="gastro_list_closed">momenteel gesloten</string>
+    <string name="gastro_list_closed_soon">sluit om\n%1$s!</string>
+    <string name="gastro_list_empty_favorites">Je hebt nog geen favorieten.\nJe kunt een locatie markeren als favoriet in de detailsweergave.</string>
+    <string name="gastro_list_empty_search">Geen zoekresultaten.</string>
+
+    <string name="gastro_details_contact_address">Geen adres</string>
+    <string name="gastro_details_contact_telephone">Geen telefoonnummer</string>
+    <string name="gastro_details_contact_website">Geen website</string>
+    <string name="gastro_details_opening_hours_content_monday">Maandag</string>
+    <string name="gastro_details_opening_hours_content_tuesday">Dinsdag</string>
+    <string name="gastro_details_opening_hours_content_wednesday">Woensdag</string>
+    <string name="gastro_details_opening_hours_content_thursday">Donderdag</string>
+    <string name="gastro_details_opening_hours_content_friday">Vrijdag</string>
+    <string name="gastro_details_opening_hours_content_saturday">Zaterdag</string>
+    <string name="gastro_details_opening_hours_content_sunday">Zondag</string>
+    <string name="gastro_details_opening_hours_content_closed">sluit binnenkort</string>
+    <string name="gastro_details_opening_hours_content_holiday_warning">Let op: vandaag is officiële feestdag!</string>
+    <string name="gastro_details_miscellaneous_content_catering">Catering</string>
+    <string name="gastro_details_miscellaneous_content_child_chair">Kinderstoel</string>
+    <string name="gastro_details_miscellaneous_content_delivery">Bezorgdienst</string>
+    <string name="gastro_details_miscellaneous_content_dog">Hond toegestaan</string>
+    <string name="gastro_details_miscellaneous_content_gluten_free">Glutenvrij</string>
+    <string name="gastro_details_miscellaneous_content_handicapped_accessible">rolstoeltoegankelijk</string>
+    <string name="gastro_details_miscellaneous_content_handicapped_accessible_wc">rolstoeltoegankelijke WC</string>
+    <string name="gastro_details_miscellaneous_content_organic">Biologisch eten</string>
+    <string name="gastro_details_miscellaneous_content_seats_indoor">Binnen zitten</string>
+    <string name="gastro_details_miscellaneous_content_seats_outdoor">Buiten zitten</string>
+    <string name="gastro_details_miscellaneous_content_vegan">Veganistisch</string>
+    <string name="gastro_details_miscellaneous_content_wlan">Wi-Fi</string>
+    <string name="gastro_details_miscellaneous_content_yes">ja</string>
+    <string name="gastro_details_miscellaneous_content_no">nee</string>
+    <string name="gastro_details_miscellaneous_content_unknown">onbekend</string>
+    <string name="gastro_details_miscellaneous_content_omnivore">omnivoor</string>
+    <string name="gastro_details_miscellaneous_content_omnivore_vegan_declared">omnivoor (veganistisch verklaard)</string>
+    <string name="gastro_details_miscellaneous_content_vegetarian">vegetarisch</string>
+    <string name="gastro_details_miscellaneous_content_vegetarian_vegan_declared">vegetarisch (veganistisch verklaard)</string>
+    <string name="gastro_details_miscellaneous_content_completely_vegan">100% veganistisch</string>
+    <string name="gastro_details_editing">Wijzigingen voorstellen</string>
+    <string name="gastro_details_opening_hours_content_clock" />
+    <string name="gastro_details_dial">Bellen</string>
+    <string name="gastro_details_favorite">Toevoegen aan favorieten</string>
+    <string name="gastro_details_website">Website</string>
+    <string name="gastro_details_no_navigation_found">Geen navigatie-app gevonden. Je kunt bijv. OsmAnd installeren uit de F-Droid-Store.</string>
+
+    <string name="gastro_filter_title_dialog">Filter</string>
+    <string name="gastro_filter_result">%1$s geselecteerd</string>
+    <string name="gastro_filter_category">Categorie</string>
+    <string name="gastro_filter_category_vegan">veganistisch</string>
+    <string name="gastro_filter_category_vegetarian">vegetarisch</string>
+    <string name="gastro_filter_category_omnivore">omnivoor</string>
+    <string name="gastro_filter_type">Soort lokaliteit</string>
+    <string name="gastro_filter_type_restaurant">Restaurant</string>
+    <string name="gastro_filter_type_fast_food">Fastfoodrestaurant</string>
+    <string name="gastro_filter_type_ice_cafe">IJssalon</string>
+    <string name="gastro_filter_type_cafe">Café</string>
+    <string name="gastro_filter_options">Opties</string>
+
+
+</resources>
